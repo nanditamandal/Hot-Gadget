@@ -1,0 +1,53 @@
+.btn{
+ 
+    background: black;
+}
+.yellow li{
+  
+    background-color: orange;
+}
+.back-pick2{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+}
+.back-pick1{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position:left bottom;
+
+    
+}
+.container {
+    margin-bottom: 50px;
+}
+h6{
+    color: orange;
+}
+.card{
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 2px lightgray;
+    
+    
+   
+}
+.card-footer{
+    background: white;
+    border: none;
+}
+
+#categories-underline{
+    width: 135.53px;
+    height: 9.73px;
+    background-image: linear-gradient(to right,orange ,tomato);
+    border-radius: 5px;
+}
+#boder{
+    padding: 50px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+ 
+}
+
